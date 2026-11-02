@@ -15,10 +15,10 @@ A React and TypeScript frontend backed by a Node.js API. The API fetches 15-minu
 Install dependencies in each app:
 
 ```bash
-cd apps/api
+cd pg-stock-dashboard/
 npm install
 
-cd ../web
+cd apps/web
 npm install
 ```
 
@@ -27,7 +27,7 @@ npm install
 Start the API in one terminal:
 
 ```bash
-cd apps/api
+cd pg-stock-dashboard/
 npm run dev
 ```
 
